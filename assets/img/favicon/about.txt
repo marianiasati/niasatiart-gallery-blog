@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Smooch Sans
+- Font Author: Copyright 2016 The Smooch Sans Project Authors (https://github.com/googlefonts/smooch-sans)
+- Font Source: http://fonts.gstatic.com/s/smoochsans/v10/c4mz1n5uGsXss2LJh1QH6b129FZvxPj6I4oiQUdodqIeNlzayg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
